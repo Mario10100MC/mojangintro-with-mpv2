@@ -1,5 +1,6 @@
 # mojangintro-with-mpv2
 
-# main script
+# Main script
 ```bash
-sh ~/Downloads/mc_start.sh | sh ~/Downloads/mcintro.sh```
+sh ~/Downloads/mc_start.sh | sh ~/Downloads/mcintro.sh
+```
